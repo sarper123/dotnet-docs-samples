@@ -28,7 +28,7 @@ namespace GoogleCloudSamples
             PublisherServiceApiClient publisher = PublisherServiceApiClient.Create();
 
             // Your Google Cloud Platform project ID
-            string projectId = "YOUR-PROJECT-ID";
+            string projectId = "sarper";
             // [END pubsub_quickstart_create_topic]
             if (projectId == "YOUR-PROJECT" + "-ID")
             {
